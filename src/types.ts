@@ -1,0 +1,1 @@
+export interface Record { id: number; [key: string]: any }

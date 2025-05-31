@@ -1,0 +1,6 @@
+{
+  "records": [
+    { "id": 1, "field1": "A", "field2": "B", "field3": "C", "field4": "D", "field5": "E" },
+    { "id": 2, "field1": "F", "field2": "G", "field3": "H", "field4": "I", "field5": "J" }
+  ]
+}
